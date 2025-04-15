@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Eric, desenvolvedor quase full-stack </h1>
+<h1 align="center">Olá, eu sou o Eric, desenvolvedor full-stack </h1>
 
-<p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces.</p>
-<h2>⏰ Atualmente</h2>
-- Cursando bacharelado em engenharia da computação na <strong>descomplica</strong></p>
-- Cursando técnico react | node | DevOps na <strong>rocketseat</strong></p>
-- Atualmente estou me aprofundando em <strong>back-end</strong></p>
-- Estudando para me tornar full-stack</p>
+<p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar as melhores maneiras de resolver problemas e criar novas interfaces!</p>
+<h2>⏰ Atualmente </h2>
+- Cursando o 3º semestre do bacharelado em engenharia da computação na <strong>descomplica</strong></p>
+- Cursando técnico AWS para tirar a certificação </p>
+- Atualmente estou me aprofundando em <strong>Full-stack</strong></p>
+- Estudando para me tornar cada vez mais um melhor full-stack</p>
 
 <br/>
 <h2>🎯 Metas Futuras</h2>
@@ -19,7 +19,7 @@
 <div align = "center">
 
 <a href="https://www.instagram.com/eric_roomero__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/eric-romero-3a2198230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/eric-souza-romero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:eriicsouzaromeroo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
 <a href="https://discord.com/channels/502615111786299402" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 
