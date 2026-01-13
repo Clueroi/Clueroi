@@ -79,6 +79,6 @@
 <br/><br/>
 
 [![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://tic-tac-toe-woad-six.vercel.app)
-[![Projeto](https://img.shields.io/website?label=RedeSocial.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://social-pz5zl66ca-cluerois-projects.vercel.app)
+[![Projeto](https://img.shields.io/website?label=RedeSocial.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://social-dev-gamma.vercel.app/login)
 [![Projeto](https://img.shields.io/website?label=Agenda&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://agenda-em-react-front.vercel.app)
 [![Projeto](https://img.shields.io/website?label=Task&style=for-the-badge&url=https://https://task-manager-2gba-7zhjgsp8h-cluerois-projects.vercel.app/history)](https://task-manager-cyan-alpha.vercel.app/)
