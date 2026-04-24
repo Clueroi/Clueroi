@@ -2,7 +2,7 @@
 
 <p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar as melhores maneiras de resolver problemas e criar novas interfaces!</p>
 <h2>⏰ Atualmente </h2>
-- Cursando o 5º semestre do bacharelado em engenharia da computação na <strong>descomplica</strong></p>
+- Cursando o 5º semestre do bacharelado em engenharia da computação na <strong>FMU</strong></p>
 - Cursando técnico AWS para tirar a certificação </p>
 - Atualmente estou me aprofundando em <strong>Full-stack</strong></p>
 - Estudando para me tornar cada vez mais um melhor full-stack</p>
