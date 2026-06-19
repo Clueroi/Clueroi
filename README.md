@@ -19,7 +19,7 @@ My current interests include Distributed Systems, AI Engineering and Event-Drive
 </ul>
 
 <br/>
-<h2>🎯 Currently Building</h2>h2>
+<h2>🎯 Currently Building</h2>
 
 An AI Platform designed with a production-oriented architecture featuring:
 
